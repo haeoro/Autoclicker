@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/c2ff3870-0248-4627-8abf-7957953c40eb)
 
 # Ingredients 
-Autoclicker made with pydirectinput, tkinter, threading and the pywin32 module. 
+Autoclicker made with pydirectinput, tkinter, threading and the pywin32 code libraries. 
 
 # How to install
 1. Run the requirements.py file by double clicking 
