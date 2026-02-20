@@ -1,4 +1,5 @@
 # Autoclicker built with tkinter and pyautogui.
+# programmed by haeoro
 
 import tkinter
 from tkinter import *
